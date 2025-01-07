@@ -1,0 +1,10 @@
+tags :- 
+
+    heading tags
+          h1 to h6
+    
+    paragraph tags
+    anchor tags
+          a
+    image tags
+            img
