@@ -8,3 +8,17 @@ tags :-
           a
     image tags
             img
+
+
+form : 
+        google form
+        admission form
+        tickte info 
+        feedback form
+        survey form
+        contact form
+        registration form
+        application form
+
+
+      First Name :Last Name :Email Address :Phone Number :Address :City :State :Zip Code :Country :DateTimeSubject :Message :Feedback :Comments :Rating :Review :Suggestions :Opinion :Query : Gender :
